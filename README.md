@@ -7,4 +7,4 @@ ctrl+alt+i = shut down computer
 up arrow = temporarely turn of shortcuts
 ctrl+shift+up_arrow = re-enable shortcuts
 down_arrow = stop running
-ctrl+y open app
+ctrl+shift+y open app
